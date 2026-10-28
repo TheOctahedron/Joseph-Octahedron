@@ -7,7 +7,7 @@
 
 ---
 
-- 🚀 Currently building **OctaGit** — a minimalistic Git command generator.
+- 🚀 Currently building **MiniHelper** — a useful and simple CLI in Python.
 - 🐀 **a secret project involving rats...**
 - 🧠 Exploring the depths of **AI** and **Full Stack** development.
 - 📫 How to reach me: [joseph.octahedron@gmail.com](mailto:joseph.octahedron@gmail.com)
